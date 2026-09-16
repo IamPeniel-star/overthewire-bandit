@@ -1,8 +1,6 @@
 # OverTheWire Bandit — Linux & Cybersecurity Practice
 
-![Linux](https://img.shields.io/badge/Linux-Command%20Line-FCC624?logo=linux&logoColor=black)
 ![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit-222222)
-![Levels](https://img.shields.io/badge/Levels-0--33-blue)
 
 A practical walkthrough of the **OverTheWire Bandit** wargame, documenting the Linux commands, concepts, and problem-solving techniques used from Level 0 through Level 33.
 
